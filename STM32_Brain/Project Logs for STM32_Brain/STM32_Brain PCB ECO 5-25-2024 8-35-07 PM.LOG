@@ -1,0 +1,11 @@
+Added Component: Designator=PB1(Tactile Switch)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EVQ-Q2F03W/762887"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "P12937SCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PB1-a
+Added Pin To Net: NetName=GND Pin=PB1-A
+Added Pin To Net: NetName=NetC1_RST_2 Pin=PB1-b
+Added Pin To Net: NetName=NetC1_RST_2 Pin=PB1-B
+Added Pin To Net: NetName=NRST Pin=PB1-b
+Added Pin To Net: NetName=NRST Pin=PB1-B
+Added Member To Class: ClassName=STM32_Brain Member=Component PB1 PushButton

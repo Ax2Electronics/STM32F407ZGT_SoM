@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BOOT Pin=CEC2-B8
+Removed Pin From Net: NetName=PB9 Pin=CEC2-B9
+Removed Pin From Net: NetName=PB8 Pin=CEC2-B10
+Added Pin To Net: NetName=PB9 Pin=CEC2-B8
+Added Pin To Net: NetName=PB8 Pin=CEC2-B9
+Added Pin To Net: NetName=BOOT Pin=CEC2-B10

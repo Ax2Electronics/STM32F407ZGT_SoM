@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=XTAL_R1 Old Footprint=RES_0603 New Footprint=RES_0402
+Change component parameters: Designator = "XTAL_R1" ("XTAL_R1"); Footprint = "RES_0603"; UniqueID = "\KGJSAMVB" ("\KGJSAMVB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GE0R00X/146727"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "0 Ohm Jump"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=PB1-b
+Added Pin To Net: NetName=NRST Pin=PB1-B

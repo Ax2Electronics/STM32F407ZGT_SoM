@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3_uC Pin=CEC1-A1
+Removed Pin From Net: NetName=VBAT Pin=CEC1-B41
+Added Pin To Net: NetName=VBAT Pin=CEC1-A1
+Added Pin To Net: NetName=NRST Pin=PB1-b
+Added Pin To Net: NetName=NRST Pin=PB1-B
+Added Member To Class: ClassName=STM32_Brain Member=Component CEC1 FX-10A 96PIN Board to Board connector 96 Pin

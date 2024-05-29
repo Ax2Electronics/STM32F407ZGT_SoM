@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=CEC1
+Change Component Designator: OldDesignator=C25 NewDesignator=CEC2
+Added Pin To Net: NetName=NRST Pin=PB1-b
+Added Pin To Net: NetName=NRST Pin=PB1-B
+Change Net Name : Old Net Name=NetC1_B42 New Net Name=NetCEC1_B42
