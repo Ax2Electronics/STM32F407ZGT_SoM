@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [STM32_Brain.PrjPcb]
+   Generated File[STM32_Brain_Copper_Signal_Top.gbr]
+   Generated File[STM32_Brain_Copper_Signal_1.gbr]
+   Generated File[STM32_Brain_Copper_Signal_2.gbr]
+   Generated File[STM32_Brain_Copper_Signal_Bot.gbr]
+   Generated File[STM32_Brain_Legend_Top.gbr]
+   Generated File[STM32_Brain_Legend_Bot.gbr]
+   Generated File[STM32_Brain_Soldermask_Top.gbr]
+   Generated File[STM32_Brain_Soldermask_Bot.gbr]
+   Generated File[STM32_Brain_Paste_Top.gbr]
+   Generated File[STM32_Brain_Paste_Bot.gbr]
+   Generated File[STM32_Brain_Profile.gbr]
+   Generated File[STM32_Brain_NPTH_Drill.gbr]
+   Generated File[STM32_Brain_PTH_Drill.gbr]
+   Generated File[STM32_Brain_Drawing_1.gbr]
+   Generated File[STM32_Brain_Drillmap_1.gbr]
+   Generated File[STM32_Brain.EXTREP]
+   Generated File[STM32_Brain.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 10:21:54 PM On 6/2/2024
